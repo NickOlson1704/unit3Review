@@ -1,0 +1,17 @@
+body {
+    background-color: blueviolet;
+}
+
+form {
+    border: 1px solid black;
+}
+
+input {
+    display: block;
+}
+
+.special-p {
+    font-size: 40px;
+    background-color: yellow;
+    color: lime;
+}
